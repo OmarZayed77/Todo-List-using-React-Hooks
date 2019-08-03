@@ -1,13 +1,6 @@
 import React from 'react';
-import Button from '@material-ui/core/Button';
+import TodoApp from '../Components/todosApp';
 
-export default (props) => {
-    return (
-        <>
-        <h1>App</h1>
-        <Button variant="contained" color="primary">
-            Hello World
-        </Button>
-        </>
-    );
+export default () => {
+    return <TodoApp/>;
 }
