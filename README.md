@@ -1,6 +1,6 @@
 # Project Title
 
-React js Template for Displaying Products
+A Todo List made with React.js using React Hooks, Context API and Material UI.
 
 ## Author
 
