@@ -1,10 +1,8 @@
 export default theme => ({
     container: {
       background: 'white',
-      width: "40%",
+      width: "100%",
+      maxWidth: "400px",
       margin: "0 auto"
-    },
-    header: {
-        textAlign: "center"
     }
   });
